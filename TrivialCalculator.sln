@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrivialCalculator", "TrivialCalculator\TrivialCalculator.csproj", "{190088FA-936C-4139-B7B0-621C81949118}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrivialCalculator.Tests", "TrivialCalculator.Tests\TrivialCalculator.Tests.csproj", "{23CC28F7-C024-43B0-BABC-A7CDFBE86336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{190088FA-936C-4139-B7B0-621C81949118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{190088FA-936C-4139-B7B0-621C81949118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{190088FA-936C-4139-B7B0-621C81949118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{190088FA-936C-4139-B7B0-621C81949118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CC28F7-C024-43B0-BABC-A7CDFBE86336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CC28F7-C024-43B0-BABC-A7CDFBE86336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CC28F7-C024-43B0-BABC-A7CDFBE86336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CC28F7-C024-43B0-BABC-A7CDFBE86336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D798E5-832B-47FB-8330-6E11DB36418B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\bin\Debug\net6.0\TrivialCalculator.exe
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\bin\Debug\net6.0\TrivialCalculator.deps.json
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\bin\Debug\net6.0\TrivialCalculator.runtimeconfig.json
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\bin\Debug\net6.0\TrivialCalculator.dll
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\bin\Debug\net6.0\TrivialCalculator.pdb
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\TrivialCalculator.csproj.AssemblyReference.cache
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\TrivialCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\TrivialCalculator.AssemblyInfoInputs.cache
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\TrivialCalculator.AssemblyInfo.cs
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\TrivialCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\TrivialCalculator.dll
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\refint\TrivialCalculator.dll
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\TrivialCalculator.pdb
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\TrivialCalculator.genruntimeconfig.cache
+C:\Users\Proha\source\repos\TrivialCalculator\TrivialCalculator\obj\Debug\net6.0\ref\TrivialCalculator.dll
