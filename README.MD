@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 classCalculator {
     - double Add(double a, double b)
     - double Substract(double a, double b)
@@ -6,4 +6,4 @@ classCalculator {
     - double Divide(double a, double b)
     - double SquareRoot(double d)
 }
-'''
+```
